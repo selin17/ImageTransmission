@@ -123,9 +123,9 @@ $$
 
 SNR measures the relationship between signal power and noise power.
 
-\[
-SNR(dB)=10\log_{10}\left(\frac{P_{signal}}{P_{noise}}\right)
-\]
+$$
+SNR(dB) = 10 \log_{10}\left(\frac{P_{signal}}{P_{noise}}\right)
+$$
 
 Higher SNR values indicate a stronger signal relative to noise.
 
@@ -232,4 +232,3 @@ This project demonstrates practical concepts in:
 - Binary File Transfer
 - Experimental Data Analysis
 
----
