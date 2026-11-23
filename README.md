@@ -115,9 +115,9 @@ The application calculates two important communication metrics.
 
 BER measures the percentage of corrupted bits during the first transmission attempt.
 
-\[
+$$
 BER = \frac{\text{Flipped Bits}}{\text{Total Bits}} \times 100
-\]
+$$
 
 **2. Signal-to-Noise Ratio (SNR)**
 
